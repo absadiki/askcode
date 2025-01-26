@@ -10,7 +10,7 @@ Ask questions to your code base using the power of LLMs.
 # Installation
 
 ```shell
-pip install git+https://github.com/abdeladim-s/askcode
+pip install git+https://github.com/absadiki/askcode
 ```
 
 # Usage
@@ -89,7 +89,3 @@ FLAGS
         Default: True
         Set it to True to use Quantized AutoGPTQ models
 ```
-
-# License
-
-MIT
